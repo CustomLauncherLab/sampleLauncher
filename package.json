@@ -1,9 +1,9 @@
 {
   "name": "sampleLauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "sampleLauncher",
   "description": "Modded Minecraft Launcher",
-  "author": "gotiger (https://github.com/go-tiger/)",
+  "author": "gotiger (https://github.com/go-tiger)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/CustomLauncherLab/sampleLauncher",
   "bugs": {
