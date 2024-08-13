@@ -1,6 +1,6 @@
 appId: 'sampleLauncher'
 productName: '샘플런처'
-artifactName: '${appId}-setup-${version}.${ext}'
+artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger'
 
@@ -34,7 +34,7 @@ mac:
       arch:
         - 'x64'
         - 'arm64'
-  artifactName: '${appId}-setup-${version}-${arch}.${ext}'
+  artifactName: '${productName}-setup-${version}-${arch}.${ext}'
   category: 'public.app-category.games'
 
 # Linux Configuration
