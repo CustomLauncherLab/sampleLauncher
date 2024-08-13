@@ -9,6 +9,7 @@ mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = "#"
+mediaAfreecaTVURL = "#"
 screenshotsTooltip = "스크린샷"
 
 [ejs.settings]
