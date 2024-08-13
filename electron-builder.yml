@@ -1,5 +1,5 @@
 appId: 'sampleLauncher'
-productName: '샘플런처'
+productName: 'sampleLauncher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 gotiger'
