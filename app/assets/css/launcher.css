@@ -3149,13 +3149,13 @@ input:checked + .toggleSwitchSlider:before {
     transition-delay:0s;
 }
 
-/* Twitter icon colors. */
-#twitterSVG:hover,
-#twitterURL:focus #twitterSVG {
-    fill: #1da1f2;
+/* X icon colors. */
+#xSVG:hover,
+#xURL:focus #xSVG {
+    fill: #000000;
 }
-#twitterSVG:active {
-    fill: #1b8dd4;
+#xSVG:active {
+    fill: #000000;
 }
 
 /* Instagram icon colors. */
@@ -3186,43 +3186,23 @@ input:checked + .toggleSwitchSlider:before {
     fill: #657ac4;
 }
 
-/* Afreeca icon colors. */
-#afreecaContainer {
-    margin-bottom: 4px;
+/* Instagram icon colors. */
+#soopSVG:hover,
+#soopURL:focus #soopSVG {
+    fill: url('#soopFill')
+    /*fill: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); */
+}
+#soopSVG:active {
+    fill: url('#soopFill')
 }
 
-#afreecaSVG {
-    height: 20px;
+/* Chzzk icon colors. */
+#chzzkSVG:hover,
+#chzzkURL:focus #chzzkSVG {
+    fill: #00FFA3FF;
 }
-#afreecaSVG:hover,
-#afreecaURL:focus #afreecaSVG,
-#afreecaSVG:active {
-    height: 28px;
-}
-#afreecaSVG:hover .blue,
-#afreecaURL:focus #afreecaSVG .blue,
-#afreecaSVG:active .blue {
-    fill: #0545b1;
-}
-#afreecaSVG:hover .sky,
-#afreecaURL:focus #afreecaSVG .sky,
-#afreecaSVG:active .sky {
-    fill: #00bbed;
-}
-#afreecaSVG:hover .green,
-#afreecaURL:focus #afreecaSVG .green,
-#afreecaSVG:active .green {
-    fill: #1ac62f;
-}
-#afreecaSVG:hover .red,
-#afreecaURL:focus #afreecaSVG .red,
-#afreecaSVG:active .red {
-    fill: #f2338a;
-}
-#afreecaSVG:hover .black,
-#afreecaURL:focus #afreecaSVG .black,
-#afreecaSVG:active .black {
-    fill: #1a1919;
+#chzzkSVG:active {
+    fill: #00FFA3FF;
 }
 
 /*******************************************************************************

@@ -5,11 +5,12 @@ title = "샘플런처"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/CustomLauncherLab/sampleLauncher"
-mediaTwitterURL = "#"
+mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = "#"
-mediaAfreecaTVURL = "#"
+mediaSoopURL = "#"
+mediaChzzkURL = "#"
 screenshotsTooltip = "스크린샷"
 
 [ejs.settings]
